@@ -1,0 +1,84 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Квартальная выручка Microsoft выросла на 18%",
+      "shortDescription": "Microsoft опубликовала отчет за третий квартал 2022 финансового года, который закончился 31 марта. Результаты оказались лучше ожиданий, и акции MSFT на постмаркете 26 апреля подросли на 4,5%, до 282 $.",
+      "img": "https://img-cdn.tinkoffjournal.ru/i/3x6MBdyx6ZLbTQXnai_dgOVaCqh8bb2NRuXpa-1WQE0/w:960/q:80/aHR0cHM6Ly9pbWct/Y2RuLnRpbmtvZmZq/b3VybmFsLnJ1Ly0v/b3V0X21zZnQtM3Ey/MDIyLnpjcGFkYS5q/cGc",
+      "url": "https://journal.tinkoff.ru/news/msft-3q2022/",
+      "date": "27.04.22"
+    },
+    {
+      "id": 2,
+      "title": "Материнская компания Google впервые за два года отчиталась хуже ожиданий",
+      "shortDescription": "Компания Alphabet отчиталась за первый квартал 2022 года хуже прогнозов аналитиков. 26 апреля ее акции на постмаркете упали на 3%, до 2308 $.",
+      "img": "https://img-cdn.tinkoffjournal.ru/i/a5bdHRmH1v4igLvkn7_hM0if8vMt-_KXDMyRw6V2yD0/w:960/q:80/aHR0cHM6Ly9pbWct/Y2RuLnRpbmtvZmZq/b3VybmFsLnJ1Ly0v/b3V0X2dvb2dsLTFx/MjAyMi5jbGl5dGQu/anBn",
+      "url": "https://journal.tinkoff.ru/news/googl-1q2022/",
+      "date": "27.04.22"
+    },
+    {
+      "id": 3,
+      "title": "Илон Маск договорился о покупке Twitter за 44 млрд долларов",
+      "shortDescription": "Глава Tesla и SpaceX Илон Маск заключил окончательное соглашение с советом директоров Twitter о покупке компании за 44 млрд долларов.",
+      "img": "https://img-cdn.tinkoffjournal.ru/i/nRreGth_t2AA42y1Dg5mOkX99qsL6vFwFShLltErm9k/w:960/q:80/aHR0cHM6Ly9pbWct/Y2RuLnRpbmtvZmZq/b3VybmFsLnJ1Ly0v/bXVzay1idXktdHdp/dHRlci1vdXQubzJu/cHhxLmpwZw",
+      "url": "https://journal.tinkoff.ru/news/musk-buy-twitter/",
+      "date": "26.04.22"
+    },
+    {
+      "id": 4,
+      "title": "Пачка инвестновостей: продажа сервисов доставки еды и NFT-биржи",
+      "shortDescription": "Европейская платформа доставки еды Just Eat Takeaway ищет покупателя на американский сервис доставки еды Grubhub. Примечание: Just Eat Takeaway провела делистинг с американской биржи и сейчас торгуется на Лондонской бирже.",
+      "img": "https://img-cdn.tinkoffjournal.ru/i/LnsCG6R-4h2apjKBn2U__IUXrObkudPio53i0o8xM7M/w:960/q:80/aHR0cHM6Ly9pbWct/Y2RuLnRpbmtvZmZq/b3VybmFsLnJ1Ly0v/b3V0X25ld3NwYWNr/LTI1LTA0LTIwMjJq/cGcucWcxbDZiLmpw/Zw",
+      "url": "https://journal.tinkoff.ru/news/newspack-25-04-2022/",
+      "date": "25.04.22"
+    },
+    {
+      "id": 5,
+      "title": "На этой неделе отчитаются все бигтехи. Вот на что стоит обратить внимание",
+      "shortDescription": "С 25 по 29 апреля отчитаются примерно 160 компаний из S&P 500, то есть каждая третья. В их числе технологические гиганты, результаты которых могут задать движение на всем рынке акций.",
+      "img": "https://img-cdn.tinkoffjournal.ru/i/BhltWryZ_OeyJYk5uDTUGHX4gW7YeRKWWr286w0W8j4/w:960/q:80/aHR0cHM6Ly9pbWct/Y2RuLnRpbmtvZmZq/b3VybmFsLnJ1Ly0v/b3V0X2JpZ3RlY2gt/ZWFybmluZ3MtMXEy/MDIyLm5xb2s5di5q/cGc",
+      "url": "https://journal.tinkoff.ru/news/bigtech-earnings-1q2022/",
+      "date": "25.04.22"
+    },
+    {
+      "id": 6,
+      "title": "На этой неделе отчитаются все бигтехи. Вот на что стоит обратить внимание",
+      "shortDescription": "С 25 по 29 апреля отчитаются примерно 160 компаний из S&P 500, то есть каждая третья. В их числе технологические гиганты, результаты которых могут задать движение на всем рынке акций.",
+      "img": "https://img-cdn.tinkoffjournal.ru/i/BhltWryZ_OeyJYk5uDTUGHX4gW7YeRKWWr286w0W8j4/w:960/q:80/aHR0cHM6Ly9pbWct/Y2RuLnRpbmtvZmZq/b3VybmFsLnJ1Ly0v/b3V0X2JpZ3RlY2gt/ZWFybmluZ3MtMXEy/MDIyLm5xb2s5di5q/cGc",
+      "url": "https://journal.tinkoff.ru/news/bigtech-earnings-1q2022/",
+      "date": "25.04.22"
+    },
+    {
+      "id": 7,
+      "title": "На этой неделе отчитаются все бигтехи. Вот на что стоит обратить внимание",
+      "shortDescription": "С 25 по 29 апреля отчитаются примерно 160 компаний из S&P 500, то есть каждая третья. В их числе технологические гиганты, результаты которых могут задать движение на всем рынке акций.",
+      "img": "https://img-cdn.tinkoffjournal.ru/i/BhltWryZ_OeyJYk5uDTUGHX4gW7YeRKWWr286w0W8j4/w:960/q:80/aHR0cHM6Ly9pbWct/Y2RuLnRpbmtvZmZq/b3VybmFsLnJ1Ly0v/b3V0X2JpZ3RlY2gt/ZWFybmluZ3MtMXEy/MDIyLm5xb2s5di5q/cGc",
+      "url": "https://journal.tinkoff.ru/news/bigtech-earnings-1q2022/",
+      "date": "25.04.22"
+    },
+    {
+      "id": 8,
+      "title": "На этой неделе отчитаются все бигтехи. Вот на что стоит обратить внимание",
+      "shortDescription": "С 25 по 29 апреля отчитаются примерно 160 компаний из S&P 500, то есть каждая третья. В их числе технологические гиганты, результаты которых могут задать движение на всем рынке акций.",
+      "img": "https://img-cdn.tinkoffjournal.ru/i/BhltWryZ_OeyJYk5uDTUGHX4gW7YeRKWWr286w0W8j4/w:960/q:80/aHR0cHM6Ly9pbWct/Y2RuLnRpbmtvZmZq/b3VybmFsLnJ1Ly0v/b3V0X2JpZ3RlY2gt/ZWFybmluZ3MtMXEy/MDIyLm5xb2s5di5q/cGc",
+      "url": "https://journal.tinkoff.ru/news/bigtech-earnings-1q2022/",
+      "date": "25.04.22"
+    },
+    {
+      "id": 9,
+      "title": "На этой неделе отчитаются все бигтехи. Вот на что стоит обратить внимание",
+      "shortDescription": "С 25 по 29 апреля отчитаются примерно 160 компаний из S&P 500, то есть каждая третья. В их числе технологические гиганты, результаты которых могут задать движение на всем рынке акций.",
+      "img": "https://img-cdn.tinkoffjournal.ru/i/BhltWryZ_OeyJYk5uDTUGHX4gW7YeRKWWr286w0W8j4/w:960/q:80/aHR0cHM6Ly9pbWct/Y2RuLnRpbmtvZmZq/b3VybmFsLnJ1Ly0v/b3V0X2JpZ3RlY2gt/ZWFybmluZ3MtMXEy/MDIyLm5xb2s5di5q/cGc",
+      "url": "https://journal.tinkoff.ru/news/bigtech-earnings-1q2022/",
+      "date": "25.04.22"
+    },
+    {
+      "title": "ппппппппппппп",
+      "shortDescription": "вввввввввввввввв",
+      "img": "https://img-cdn.tinkoffjournal.ru/i/3x6MBdyx6ZLbTQXnai_dgOVaCqh8bb2NRuXpa-1WQE0/w:960/q:80/aHR0cHM6Ly9pbWct/Y2RuLnRpbmtvZmZq/b3VybmFsLnJ1Ly0v/b3V0X21zZnQtM3Ey/MDIyLnpjcGFkYS5q/cGc",
+      "adress": "ааааааааа",
+      "date": "2022-05-12",
+      "id": 10
+    }
+  ]
+}
