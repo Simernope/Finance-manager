@@ -6,6 +6,7 @@ import {Link} from "react-router-dom";
 import {useAuthContext} from "../useAuthContext";
 
 const News1 = () => {
+    //3 commit
     const {data: news, isPending, error} = useFetch('http://localhost:8000/news')
     const {user} = useAuthContext()
 
